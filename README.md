@@ -6,5 +6,6 @@ There are fews functions:
 -Login/Logout/Register
 -Decentralization
 -Shopping Cart/Checkout
+-
 
 I will do some additional functions related to security(JWT/https) but it will be in another using Spring framework. Maybe AJAX and statistics will be added for my project.
